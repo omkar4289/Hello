@@ -16,7 +16,7 @@ public class Hello_Worlds {
 			  System.out.print(" ");
 			  else
 			  {
-				  System.out.print("/");
+				  System.out.print("=");
 				  
 			  }
 		  }
